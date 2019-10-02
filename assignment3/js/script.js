@@ -1,7 +1,7 @@
 
 
 
-var students = ["Donya Aref", "Matthew Beaubien", "Abbey Chong", "Tess Dunn", "Justin Francisco", "Rachel Gilbert-O'Neil", "Andrea Gnanatheepan", "Christina Hayes", "Heesun Jung", "Lucia Kim", "Helen Kurnevich", "Connie Le", "Nhan Le", "Yubin Lee", "Jodie Leung", "Michelle Lu", "Joshua McKenna", "Jin ParkJoong", "Sam Rasmussen", "Minju Roh", "Lucy Son", "Nathaniel Tambakis", "Rebecca Wilkinson", "Justin Yoon", "Claire Zhang", "Yubai Zhang"]
+var students = ["Lina Akkawi", "Khes Bowen", "Karlo Calayag", "Sophia Choi", "Adrienne Dacoco", "Yasmin Emery", "Katherine Garnett", "Oleg Gorlenko", "Jaywhy Kim", "Hwa Koo Seung", "Siwoo Lee", "Justine Ly", "Andrea Mejia Neri", "Kyle Miron", "Alleesa Paragas", "Oanh Pham", "Sabrina Singh", "Su Tarhan", "Jillian Taverner", "Allison Truong", "Cole Wielgosz", "Christine Xia"]
 var actions = ["Random", "Click", "Hover", "Show/Hide", "Cursor", "Scroll", "Type", "Drag", "Random", "Click", "Hover", "Show/Hide", "Cursor", "Scroll", "Type", "Drag", "Drag", "Scroll", "Type", "Cursor", "Hover", "Click", "Show/Hide", "Random", "Drag", "Scroll"]
 
 
@@ -13,3 +13,5 @@ for (var i=0; i<students.length;i++) {
 
 
 }
+
+
